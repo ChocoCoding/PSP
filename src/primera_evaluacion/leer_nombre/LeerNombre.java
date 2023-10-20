@@ -1,4 +1,4 @@
-package org.example.primera_evaluacion.leer_nombre;
+package primera_evaluacion.leer_nombre;
 
 public class LeerNombre {
 

@@ -1,4 +1,4 @@
-package org.example.primera_evaluacion.numero_aleatorio;
+package primera_evaluacion.numero_aleatorio;
 
 import java.io.*;
 import java.util.Scanner;
